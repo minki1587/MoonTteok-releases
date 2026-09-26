@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "minSdk": 26,
+  "packageName": "com.developer.moontteok",
+  "channel": "preview",
+  "size": 50896919,
+  "sha256": "cc80ad12c32b878784cacf1630189c2dc6e26b667ec8b261b2701f91eb7cd50a",
+  "certificateSha256": "cbe195104f2c1b7a98573671dfdafddf5dcf3b00d256ba42ea2fd89b4e6428ec",
+  "downloadUrl": "https://github.com/minki1587/MoonTteok-releases/releases/download/v1.2.0-preview/MoonTteok.apk"
+}
