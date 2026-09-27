@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionCode": 6,
-  "versionName": "1.2.3",
+  "versionCode": 7,
+  "versionName": "1.2.4",
   "minSdk": 26,
   "packageName": "com.developer.moontteok",
   "channel": "preview",
-  "size": 51668409,
-  "sha256": "4065b6860cca977d48c46aad08902ec761f7381a8beb277e19f343a14b9e4cc7",
+  "size": 51892902,
+  "sha256": "c9873117286811b8c694e7867b902629909096e50d14bd5b8889345f0f537c5c",
   "certificateSha256": "cbe195104f2c1b7a98573671dfdafddf5dcf3b00d256ba42ea2fd89b4e6428ec",
-  "downloadUrl": "https://github.com/minki1587/MoonTteok-releases/releases/download/v1.2.3-preview/MoonTteok.apk"
+  "downloadUrl": "https://github.com/minki1587/MoonTteok-releases/releases/download/v1.2.4-preview/MoonTteok.apk"
 }
